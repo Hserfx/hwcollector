@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+asyncpg
+psycopg2-binary
+pytest
+httpx
+pytest-asyncio
+sqlalchemy
+requests
+python-jose[cryptography]
+python-multipart
